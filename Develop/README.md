@@ -1,7 +1,7 @@
-# sample project
+# README genorator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  this is a test
+  description
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -10,13 +10,13 @@
   - [Questions](#questions)
   - [License](#license)
   ## Installation
-  this is a sample
+  installation instructions
   ## Usage
-  this is the usage
+  usage
   ## Contribution
-  here is my contribution guidlines
+  contributions
   ## Tests
-  test
+  instructions
   ## Questions
   If you have any questions, please reach out to me at stevens38@marshall.edu or visit my undefined GitHub profile.
   ## License 
