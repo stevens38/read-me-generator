@@ -1,7 +1,7 @@
-# Budget Calculater
+# sample project
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  creating a budge planner application
+  this is a test
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -10,11 +10,11 @@
   - [Questions](#questions)
   - [License](#license)
   ## Installation
-  go to internet site
+  this is a sample
   ## Usage
-  fallowing explination on web page
+  this is the usage
   ## Contribution
-  join the team
+  here is my contribution guidlines
   ## Tests
   test
   ## Questions
